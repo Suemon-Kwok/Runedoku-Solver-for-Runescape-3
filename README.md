@@ -12,4 +12,4 @@ Once you have finished with the 9x9 grid click solver button
 
 Here is a demonostration on youtube below
 
-https://www.youtube.com/watch?v=GwML6AcDS6U
+https://www.youtube.com/watch?v=T0lBNB4Kisw
